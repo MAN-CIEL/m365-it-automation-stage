@@ -1,0 +1,5 @@
+utilisateur@nutrisens.fr,NOM_LISTE_SUPPRESSION
+utilisateur@nutrisens.com,NOM_LISTE_SUPPRESSION
+utilisateur@nutrisens.fr,NOM_LISTE_SUPPRESSION
+utilisateur@nutrisens.fr,NOM_LISTE_SUPPRESSION
+utilisateur@nutrisens.fr,NOM_LISTE_SUPPRESSION

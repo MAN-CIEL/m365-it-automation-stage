@@ -1,0 +1,10 @@
+utilisateur@nutrisens.fr,NOM_LISTE_DESTINATION
+utilisateur@nutrisens.com,NOM_LISTE_DESTINATION
+utilisateur@nutrisens.fr,NOM_LISTE_DESTINATION
+utilisateur@nutrisens.fr,NOM_LISTE_DESTINATION
+utilisateur@nutrisens.fr,NOM_LISTE_DESTINATION
+utilisateur@nutrisens.fr,NOM_LISTE_DESTINATION
+utilisateur@nutrisens.com,NOM_LISTE_DESTINATION
+utilisateur@nutrisens.fr,NOM_LISTE_DESTINATION
+utilisateur@nutrisens.fr,NOM_LISTE_DESTINATION
+utilisateur@nutrisens.fr,NOM_LISTE_DESTINATION

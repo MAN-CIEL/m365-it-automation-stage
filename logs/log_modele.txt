@@ -1,0 +1,11 @@
+
+--- Exécution du script : 2025-06-18 20:00:00 ---
+Liste : NOM_LISTE
+  Membres supprimés : 10
+  Membres ajoutés   : 10
+
+--- Traitement des utilisateurs exceptionnels ---
+
+Ajouté : utilisateur@nutrisens.fr à LISTE_DESTINATION
+Ajouté : utilisateur@nutrisens.com à LISTE_DESTINATION
+Supprimé : utilisateur@nutrisens.com de LISTE_SUPPRESSION
