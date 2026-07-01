@@ -1,0 +1,12 @@
+
+--- Exécution du script : 2025-06-19 14:24:46 ---
+481 membres supprimés du groupe MIB pour les UserMailBox
+481 utilisateurs ajoutés au groupe MIB pour les UserMailBox après mise à jour
+
+--- Exécution du script : 2025-06-19 15:20:29 ---
+481 membres supprimés du groupe MIB pour les UserMailBox
+481 utilisateurs ajoutés au groupe MIB pour les UserMailBox après mise à jour
+
+--- Exécution du script : 2025-06-19 20:00:00 ---
+481 membres supprimés du groupe MIB pour les UserMailBox
+481 utilisateurs ajoutés au groupe MIB pour les UserMailBox après mise à jour

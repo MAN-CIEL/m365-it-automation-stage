@@ -1,0 +1,4 @@
+
+--- Exécution du script : 2025-06-19 20:00:00 ---
+121 membres supprimés du groupe NOM_GROUPE_SHAREDMAILBOX
+121 utilisateurs ajoutés au groupe NOM_GROUPE_SHAREDMAILBOX après mise à jour
